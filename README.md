@@ -2,11 +2,11 @@
 ## A Webpage to showcase my skillset . 
 
 # **TABLE OF CONTENTS**
-- ## Setup / Usage .
-- ## How To install .
-- ## Take away form this .
-- ## FAQ . 
-- ## Contact Me .
+-  Setup / Usage .
+-  How to install .
+-  Acquired Knowledge .
+-  FAQ . 
+-  Contact Me .
 ## **SETUP / USAGE**
 ---
 This project have been developed by using HTML-5 and CSS-3 .To make this project easier and to save time use the following packages,
@@ -15,9 +15,9 @@ This project have been developed by using HTML-5 and CSS-3 .To make this project
 
 - lite-server
 
-### **NPM :** npm can manage packages that are local dependencies of a particular project, as well as globally-installed JavaScript tools.[22] When used as a dependency manager for a local project, npm can install, in one command .
+ **NPM :** npm can manage packages that are local dependencies of a particular project, as well as globally-installed JavaScript tools.[22] When used as a dependency manager for a local project, npm can install, in one command .
 
-### **LITE-SERVER :** Lite-server browsersync does most of what we want in a super fast lightweight development server. It serves the static content, detects changes, refreshes the browser, and offers many customizations
+ **LITE-SERVER :** Lite-server browsersync does most of what we want in a super fast lightweight development server. It serves the static content, detects changes, refreshes the browser, and offers many customizations
 
 
 ## **HOW TO INSTALL NODE.JS AND NPM :**
@@ -27,10 +27,10 @@ This project have been developed by using HTML-5 and CSS-3 .To make this project
   - `2) npm init`
   - `3) npm install --dev-save lite-server`
   - `4) npm start`
+## **ACQUIRED KNOWLEDGE :**
 ---
-## **TAKE AWAY FROM THIS TOPIC :**
 - I can create a webpage using "html and css" on my own by working on this project .
-- Practised with html commands like ,
+- I have Practised with html commands like ,
   - `<h1></h1>`
   - `<p></p>
   `
@@ -45,13 +45,13 @@ This project have been developed by using HTML-5 and CSS-3 .To make this project
   - `padding`
 ## **FAQ**
 ---
-1. Why html?  
+### 1. Why html?  
 HTML is Supported by all Browsers and it is the Most Friendly Search Engine.
 
-2. Does npm is required?  
+### 2. Does npm is required?  
 npm is the package manager for the Node JavaScript platform. It puts modules in place so that node can find them, and manages dependency conflicts intelligently.
 
-3. Why lite-server ?  
+### 3. Why lite-server ?  
 npm can manage packages that are local dependencies of a particular project, as well as globally-installed JavaScript tools.[22] When used as a dependency manager for a local project, npm can install, in one command
 
 ## **CONTACT ME**
