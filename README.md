@@ -1,5 +1,5 @@
 # PERSONAL-PORTFOLIO
-## A Webpage to showcase my skillset . 
+- ## A Webpage to showcase my skillset . 
 
 # **TABLE OF CONTENTS**
 -  Setup / Usage .
