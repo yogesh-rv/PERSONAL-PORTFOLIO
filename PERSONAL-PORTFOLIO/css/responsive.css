@@ -1,0 +1,84 @@
+@media (max-width: 400px){
+    header h1{
+        color: red ;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .container{
+        width: 100%;    
+    }
+}
+@media (min-width: 401px) and (max-width: 450px){
+    header h1{
+        color: lime;
+    }
+    .container{
+        width: 200px;
+    }
+}
+@media (min-width: 451px) and (max-wdith: 500px){
+    header h1{
+        color: linen;
+
+    }
+    .container{
+        width: 300px;
+
+    }
+}
+@media (min-width: 501px) and (max-width: 550px){
+    header h1{
+        color: magenta;
+    }
+    .container{
+        width: 400px;
+    }
+
+}
+@media (min-width: 551px) and (max-width: 600px){
+    header h1{
+        color: mediumaquamarine;
+    }
+    .container{
+        width: 500px;
+    }
+}
+@media (min-width: 601px) and (max-width: 650px){
+    header h1{
+        color: mediumblue;
+    }
+    .container{
+        width: 60%;
+    }
+}
+@media (min-width: 651px) and (max-width: 700px){
+    header h1{
+        color: peru;
+    }
+}
+@media (min-width: 701px) and (max-width: 750px){
+    header h1{
+        color: aquamarine;
+
+    }
+    .container{
+        width: 80%;
+    }
+}
+@media (min-width: 751px) and (max-width: 800px){
+    header h1{
+        font-size: 40px;
+    }
+    .container{
+        width: 100%;
+    }
+}
+@media (min-width: 801px) and (max-width: 900px){
+    header h1{
+        color: brown;
+        font-style: oblique;
+    }
+    .container{
+        width: 80%;
+    }
+
+}
